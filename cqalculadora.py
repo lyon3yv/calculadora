@@ -26,7 +26,6 @@ Opcions:
   15. Equació de segon grau (ax² + bx + c = 0)
   16. Mitjana de tres nombres
   17. Calcular un percentatge (%)
-  18. Calcular IVA i descomptes
   19. Regla de tres simple
   20. Convertir Celsius a Fahrenheit
   21. Convertir km/h a m/s
